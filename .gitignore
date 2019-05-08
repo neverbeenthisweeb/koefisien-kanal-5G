@@ -1,0 +1,4 @@
+# Folder that shall not uploaded
+__pycache*
+.ipynb*
+.vs*
